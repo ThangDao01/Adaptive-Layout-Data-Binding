@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="UWP_040_Data_Binding_to_the_GridView_and_ListView_Controls.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:UWP_040_Data_Binding_to_the_GridView_and_ListView_Controls">
+
+</Application>
